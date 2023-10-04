@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-neutral-300;
+}
+
+#root {
+  @apply min-h-screen min-w-full flex flex-col gap-4 items-center justify-center;
+}
+
+input[type="text"] {
+  @apply p-1 bg-white rounded-md border border-neutral-200;
+}
+
+button {
+  @apply transition-all duration-300;
+}
+
+button:hover {
+  @apply brightness-90;
+}

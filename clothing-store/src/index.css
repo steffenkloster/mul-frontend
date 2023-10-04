@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply px-10 py-2;
+  font-family: "Playfair Display", serif;
+}
+
+.categories {
+  @apply flex justify-between px-6;
+
+  > li {
+    @apply uppercase cursor-pointer;
+  }
+}
+
+.options {
+  @apply flex gap-4;
+
+  > li {
+    @apply border border-neutral-800 text-neutral-800 bg-neutral-50 px-6 py-2 text-sm outline outline-1 outline-white;
+
+    &.selected {
+      @apply border-2 outline-none font-semibold;
+    }
+  }
+}
+
+button {
+  @apply border border-neutral-800 text-neutral-800 bg-neutral-50 px-6 py-2 transition-all duration-300;
+
+  &:hover {
+    @apply bg-neutral-100;
+  }
+
+  > i,
+  svg {
+    @apply pr-2;
+  }
+}
+
+input {
+  @apply border border-neutral-800 text-neutral-800 bg-neutral-50 pl-3 py-2 w-12;
+}

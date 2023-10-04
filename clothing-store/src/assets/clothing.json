@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "category": "Sneakers",
+    "brand": "Nike",
+    "model": "Air Max 90",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Red", "Blue", "White"],
+    "price": 99.99,
+    "description": "The classic Nike Air Max 90 sneakers with a retro design."
+  },
+  {
+    "id": 2,
+    "category": "Sneakers",
+    "brand": "Adidas",
+    "model": "Superstar",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "White", "Gold"],
+    "price": 79.99,
+    "description": "Adidas Superstar sneakers with iconic shell toe."
+  },
+  {
+    "id": 3,
+    "category": "Pants",
+    "brand": "Levi's",
+    "model": "501 Jeans",
+    "sizes": ["28x32", "30x32", "32x32", "34x32"],
+    "colors": ["Blue", "Black"],
+    "price": 49.99,
+    "description": "Classic Levi's 501 jeans for a timeless look."
+  },
+  {
+    "id": 4,
+    "category": "Shirts",
+    "brand": "Puma",
+    "model": "Ferrari T-shirt",
+    "sizes": ["S", "M", "L"],
+    "colors": ["Red", "Black", "White"],
+    "price": 29.99,
+    "description": "Puma Ferrari branded t-shirt for motorsport enthusiasts."
+  },
+  {
+    "id": 5,
+    "category": "Pants",
+    "brand": "H&M",
+    "model": "Slim Fit Chinos",
+    "sizes": ["30x32", "32x32", "34x32", "36x32"],
+    "colors": ["Khaki", "Navy", "Black"],
+    "price": 39.99,
+    "description": "Stylish slim fit chinos from H&M for a modern look."
+  },
+  {
+    "id": 6,
+    "category": "Sneakers",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "sizes": ["5", "6", "7", "8"],
+    "colors": ["White", "Black", "Red"],
+    "price": 59.99,
+    "description": "Timeless Converse Chuck Taylor sneakers for everyday wear."
+  },
+  {
+    "id": 8,
+    "category": "Jackets",
+    "brand": "Zara",
+    "model": "Denim Jacket",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Blue", "Black"],
+    "price": 69.99,
+    "description": "Stylish denim jacket from Zara for a casual look."
+  },
+  {
+    "id": 9,
+    "category": "Shirts",
+    "brand": "Polo Ralph Lauren",
+    "model": "Classic Polo Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Navy", "White", "Green"],
+    "price": 49.99,
+    "description": "Timeless Polo Ralph Lauren polo shirt with the iconic logo."
+  },
+  {
+    "id": 10,
+    "category": "Sneakers",
+    "brand": "New Balance",
+    "model": "990v5 Sneakers",
+    "sizes": ["8", "9", "10", "11"],
+    "colors": ["Gray", "Navy", "Black"],
+    "price": 119.99,
+    "description": "Comfortable and supportive New Balance 990v5 sneakers."
+  },
+  {
+    "id": 11,
+    "category": "Sweaters",
+    "brand": "Gap",
+    "model": "Crewneck Sweater",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Gray", "Navy", "Burgundy"],
+    "price": 34.99,
+    "description": "Cozy crewneck sweater from Gap for chilly days."
+  },
+  {
+    "id": 12,
+    "category": "Dresses",
+    "brand": "Tommy Hilfiger",
+    "model": "Classic Polo Dress",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Navy", "Red"],
+    "price": 59.99,
+    "description": "Timeless Tommy Hilfiger polo dress for a preppy look."
+  },
+  {
+    "id": 13,
+    "category": "Sneakers",
+    "brand": "Vans",
+    "model": "Old Skool Sneakers",
+    "sizes": ["5", "6", "7", "8"],
+    "colors": ["Black", "White", "Red"],
+    "price": 69.99,
+    "description": "Classic Vans Old Skool sneakers for skaters and streetwear enthusiasts."
+  },
+  {
+    "id": 14,
+    "category": "Jackets",
+    "brand": "The North Face",
+    "model": "Denali Fleece Jacket",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Gray", "Blue"],
+    "price": 89.99,
+    "description": "Warm and durable fleece jacket from The North Face."
+  },
+  {
+    "id": 15,
+    "category": "Sneakers",
+    "brand": "Reebok",
+    "model": "Classic Leather Sneakers",
+    "sizes": ["8", "9", "10", "11"],
+    "colors": ["White", "Black", "Red"],
+    "price": 79.99,
+    "description": "Iconic Reebok Classic Leather sneakers for a retro look."
+  },
+  {
+    "id": 16,
+    "category": "Shirts",
+    "brand": "Hollister",
+    "model": "Graphic T-shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Navy", "White", "Gray"],
+    "price": 19.99,
+    "description": "Casual Hollister graphic t-shirt for a laid-back style."
+  },
+  {
+    "id": 17,
+    "category": "Jackets",
+    "brand": "Columbia",
+    "model": "Watertight II Rain Jacket",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Blue", "Green"],
+    "price": 69.99,
+    "description": "Waterproof Columbia rain jacket for outdoor adventures."
+  },
+  {
+    "id": 18,
+    "category": "Shirts",
+    "brand": "Under Armour",
+    "model": "Tech Polo Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "Red", "Gray"],
+    "price": 44.99,
+    "description": "Performance-oriented Under Armour polo shirt for athletes."
+  },
+  {
+    "id": 19,
+    "category": "Shirts",
+    "brand": "Ralph Lauren",
+    "model": "Classic Oxford Shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Blue", "White", "Pink"],
+    "price": 59.99,
+    "description": "Timeless Ralph Lauren classic oxford shirt for a polished look."
+  },
+  {
+    "id": 20,
+    "category": "Sneakers",
+    "brand": "ASICS",
+    "model": "Gel-Kayano 27 Running Shoes",
+    "sizes": ["8", "9", "10", "11"],
+    "colors": ["Blue", "Black", "White"],
+    "price": 129.99,
+    "description": "High-performance ASICS Gel-Kayano 27 running shoes for runners."
+  },
+  {
+    "id": 22,
+    "category": "Pants",
+    "brand": "Wrangler",
+    "model": "Regular Fit Jeans",
+    "sizes": ["28", "30", "32", "34"],
+    "colors": ["Blue", "Black", "Brown"],
+    "price": 54.99,
+    "description": "Comfortable Wrangler regular fit jeans for everyday wear."
+  },
+  {
+    "id": 23,
+    "category": "Shirts",
+    "brand": "Hanes",
+    "model": "Crewneck T-shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Black", "Gray"],
+    "price": 14.99,
+    "description": "Basic Hanes crewneck t-shirt for casual occasions."
+  },
+  {
+    "id": 24,
+    "category": "Hoodies",
+    "brand": "Champion",
+    "model": "Reverse Weave Hoodie",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Gray", "Navy", "Red"],
+    "price": 49.99,
+    "description": "Classic Champion Reverse Weave hoodie for warmth and style."
+  },
+  {
+    "id": 25,
+    "category": "Dresses",
+    "brand": "Zara",
+    "model": "Floral Maxi Dress",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Blue", "Pink", "Yellow"],
+    "price": 69.99,
+    "description": "Stylish Zara floral maxi dress for a chic look."
+  },
+  {
+    "id": 26,
+    "category": "Sneakers",
+    "brand": "Nike",
+    "model": "React Infinity Run",
+    "sizes": ["40", "41", "42", "43"],
+    "colors": ["Black", "Blue", "White"],
+    "price": 119.99,
+    "description": "Nike React Infinity Run sneakers for comfortable running."
+  },
+  {
+    "id": 29,
+    "category": "Sneakers",
+    "brand": "Adidas",
+    "model": "Ultraboost",
+    "sizes": ["40", "41", "42", "43"],
+    "colors": ["White", "Black", "Gray"],
+    "price": 129.99,
+    "description": "Adidas Ultraboost sneakers for ultimate comfort and style."
+  }
+]
