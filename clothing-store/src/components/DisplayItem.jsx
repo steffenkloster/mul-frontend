@@ -34,7 +34,7 @@ const DisplayItem = ({ item, addToCart, setCurrentItem }) => {
   };
 
   return (
-    <div className="flex gap-6">
+    <div className="flex gap-6 mb-4">
       {/* <div className="h-96 w-96 flex-shrink-0">
         <img src={`/clothing-images/${id}.jpeg`} />
       </div> */}
