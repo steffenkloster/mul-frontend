@@ -29,6 +29,9 @@ function App() {
 
     const updatedPiips = [newPiip, ...piips];
     setPiips(updatedPiips);
+
+    setNickname("");
+    setMessage("");
   };
 
   return (

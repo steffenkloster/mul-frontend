@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import Contact from "../entities/Contact";
 import { useState } from "react";
 
-const Modal = ({ submitModal }) => {
+const Modal = ({ submitModal, setModalVisible }) => {
   const [modalData, setModalData] = useState(
     new Contact("", "", "", "", "", "")
   );
@@ -34,7 +34,11 @@ const Modal = ({ submitModal }) => {
   return (
     <div
       className="absolute h-screen w-screen bg-black/40 overlay"
-      onClick={() => console.log(1)}
+      onClick={(e) => {
+        if (e.target.classList.contains("overlay")) {
+          setModalVisible(false);
+        }
+      }}
     >
       <div
         className={`absolute top-1/2 left-1/2 translate -translate-x-1/2 -translate-y-1/2 w-96 p-6 bg-white drop-shadow-lg rounded-lg`}

@@ -132,7 +132,7 @@ function App() {
           </button>
         </div>
       </div>
-      <hr />
+      <hr className="mt-4" />
       <div className="pt-4 text-center">
         <a href="https://steffen.codes/" target="_blank" rel="noreferrer">
           © steffen.codes
